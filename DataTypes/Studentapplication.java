@@ -1,7 +1,8 @@
-package Datatype;
+package DataTypes;
 
 public class Studentapplication {
     public static void main(String[] args) {
+        
         //1.name of the candidate 
        String Candidatename ="MADASU JAGADEESH";
 
