@@ -25,6 +25,8 @@ public class Scarpiospecs {
         int engineCapacity=2200; //cc
         int horsepower=140; //bhp
         
+        
+        
         //output of some data
         System.out.println("Milage: " + milage + " km/l");
         System.out.println("Fuel Type: " + fueltype);
